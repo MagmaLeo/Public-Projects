@@ -1,7 +1,11 @@
 Files:
+
   ECG_rhythm_classifier_v1_CNN.ipynb -> main notebook
+  
   ptbxl_rhythms_CNNmodel.keras -> final model
+  
   ptbxl_rhythms_CNNmodel.h5 -> same final model, but h5 format
+  
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 Description:
