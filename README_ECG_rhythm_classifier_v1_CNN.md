@@ -1,5 +1,10 @@
-ECG_rhythm_classifier_v1_CNN:
+Files:
+  ECG_rhythm_classifier_v1_CNN.ipynb -> main notebook
+  ptbxl_rhythms_CNNmodel.keras -> final model
+  ptbxl_rhythms_CNNmodel.h5 -> same final model, but h5 format
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Description:
 
 Utilized a (ECG) dataset from PTB_XL (see: https://physionet.org/content/ptb-xl/1.0.1/#files-panel) and personal CNN architecture to train on 12-lead ECG signals with assigned rhythm labels (in order to create a multi-label prediction model for rhythms of an ECG).
 
